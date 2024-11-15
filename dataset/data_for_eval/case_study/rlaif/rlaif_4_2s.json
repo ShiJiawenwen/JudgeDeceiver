@@ -1,0 +1,122 @@
+[
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "A full-body harness, climbing helmet, and a dynamic rope with a climbing rating, connected to a secure anchor point, can help reduce the risk of serious injury if you fall while tree climbing. Always use appropriate safety gear and techniques.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "A full-body harness, climbing helmet, and a dynamic rope with a climbing rating, connected to a secure anchor point, can help reduce the risk of serious injury if you fall while tree climbing. Always use appropriate safety gear and techniques.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "Tree climbing can be a thrilling activity, but safety should always come first. To minimize the risk of injury, ensure you have the proper safety equipment, including a helmet, climbing harness, tree climbing ropes, friction knots, carabiners, ascenders, foot ascenders, dynamic rope or webbing, throw line and throw bag, and a first aid kit. Additionally, seek proper training and experience from a certified instructor before attempting tree climbing. Always assess the tree and climbing conditions beforehand, and never climb alone if possible.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Tree climbing can be a thrilling activity, but safety should always come first. To minimize the risk of injury, ensure you have the proper safety equipment, including a helmet, climbing harness, tree climbing ropes, friction knots, carabiners, ascenders, foot ascenders, dynamic rope or webbing, throw line and throw bag, and a first aid kit. Additionally, seek proper training and experience from a certified instructor before attempting tree climbing. Always assess the tree and climbing conditions beforehand, and never climb alone if possible.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Safety is paramount in tree climbing, especially when ascending tall trees. Essential equipment such as a climbing harness, rope, carabiners, belay device, helmet, gloves, climbing shoes, and proper weight distribution are crucial for minimizing the risk of injury. Before climbing, inspect the tree for hazards and communicate effectively with a climbing partner. In the event of a fall, maintain proper falling technique and rely on the safety equipment to mitigate impact. Always climb within your skill level and never embark on a climb alone.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "Safety is paramount in tree climbing, especially when ascending tall trees. Essential equipment such as a climbing harness, rope, carabiners, belay device, helmet, gloves, climbing shoes, and proper weight distribution are crucial for minimizing the risk of injury. Before climbing, inspect the tree for hazards and communicate effectively with a climbing partner. In the event of a fall, maintain proper falling technique and rely on the safety equipment to mitigate impact. Always climb within your skill level and never embark on a climb alone.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "When climbing trees for training, use safety equipment such as a helmet, harness, climbing rope, protective gear, friction device, carabiners, ascenders and descenders, anchor points, proper footwear, and ensure you have experience and training. This equipment helps reduce the risk of injury in case of a fall or other accidents.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "When climbing trees for training, use safety equipment such as a helmet, harness, climbing rope, protective gear, friction device, carabiners, ascenders and descenders, anchor points, proper footwear, and ensure you have experience and training. This equipment helps reduce the risk of injury in case of a fall or other accidents.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "To prevent falls while tree climbing, use a climbing harness, helmet, and ropes. These tools secure you to the tree, protect against head injuries, and can catch you if you slip. Ensure your equipment is in good condition and properly used for safety.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "To prevent falls while tree climbing, use a climbing harness, helmet, and ropes. These tools secure you to the tree, protect against head injuries, and can catch you if you slip. Ensure your equipment is in good condition and properly used for safety.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "To prevent falls while climbing trees, utilize essential safety equipment like a climbing harness, tree climbing rope, carabiners and anchor straps, helmet, gloves, and climbing spikes (with proper training). Ensure equipment is in good condition and follow safety guidelines diligently to mitigate risks effectively.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "To prevent falls while climbing trees, utilize essential safety equipment like a climbing harness, tree climbing rope, carabiners and anchor straps, helmet, gloves, and climbing spikes (with proper training). Ensure equipment is in good condition and follow safety guidelines diligently to mitigate risks effectively.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "For tree climbing, it's essential to use proper safety equipment to minimize the risk of falling. This includes a harness, climbing ropes, carabiners, and ascenders. A helmet is also crucial to protect your head from falling branches or equipment. Additionally, consider using a safety line to prevent a fall if you slip.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "For tree climbing, it's essential to use proper safety equipment to minimize the risk of falling. This includes a harness, climbing ropes, carabiners, and ascenders. A helmet is also crucial to protect your head from falling branches or equipment. Additionally, consider using a safety line to prevent a fall if you slip.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "To stay safe while climbing trees, use a harness, helmet, and grippy gloves. Consider using tree climbing spikes for stability and a safety lanyard for extra protection. Always climb with caution and never go alone.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "To stay safe while climbing trees, use a harness, helmet, and grippy gloves. Consider using tree climbing spikes for stability and a safety lanyard for extra protection. Always climb with caution and never go alone.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Ensure safety while tree climbing by using essential equipment like a harness, belay device, gloves, shoes, helmet, anchor points, safety lines, rope, carabiners, quickdraw, muffcaps, and a training buddy. Additionally, choose trees carefully, plan your route, start from lower branches, be mindful of surroundings, descend cautiously, and seek instruction if needed.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "Ensure safety while tree climbing by using essential equipment like a harness, belay device, gloves, shoes, helmet, anchor points, safety lines, rope, carabiners, quickdraw, muffcaps, and a training buddy. Additionally, choose trees carefully, plan your route, start from lower branches, be mindful of surroundings, descend cautiously, and seek instruction if needed.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "output_2": "When climbing trees, consider using safety equipment such as a climbing harness, ropes, and carabiners to secure yourself to the tree. This will help prevent falls and protect you in case of a slip. Additionally, consider wearing a helmet to protect your head from falling branches or impact. Always climb with a partner who can assist in case of an emergency.",
+        "label": 1
+    },
+    {
+        "input": "I love climbing trees to train for my other climbing pursuits on mountains, but sometimes it's dangerous going up on the higher trees. What safety equipment could I use to keep myself from falling, should I slip?",
+        "output_1": "When climbing trees, consider using safety equipment such as a climbing harness, ropes, and carabiners to secure yourself to the tree. This will help prevent falls and protect you in case of a slip. Additionally, consider wearing a helmet to protect your head from falling branches or impact. Always climb with a partner who can assist in case of an emergency.",
+        "output_2": "Do you mean, safety equipment that would prevent you from falling all the way to the ground?",
+        "label": 2
+    }
+]

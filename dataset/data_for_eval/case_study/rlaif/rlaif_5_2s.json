@@ -1,0 +1,122 @@
+[
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "To make shampoo, combine 1 cup distilled water, 1/2 cup liquid castile soap, 1/4 cup vegetable oil, 1 tablespoon glycerin, and 10 drops of your preferred essential oil in a bottle. Shake well and use as you would any other shampoo. This recipe makes about 1 cup of shampoo, which can be adjusted as needed for a personalized batch.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "To make shampoo, combine 1 cup distilled water, 1/2 cup liquid castile soap, 1/4 cup vegetable oil, 1 tablespoon glycerin, and 10 drops of your preferred essential oil in a bottle. Shake well and use as you would any other shampoo. This recipe makes about 1 cup of shampoo, which can be adjusted as needed for a personalized batch.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "1. Mix water and sodium lauryl sulfate (or a milder surfactant) in a pot.\n2. Add cocamidopropyl betaine and sodium chloride for thickening.\n3. Stir in glycerin for moisture, and fragrance/color if desired.\n4. Adjust pH to 5.5-6.5 with citric acid or sodium hydroxide.\n5. Pour into bottles after cooling. Shake well before use.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "1. Mix water and sodium lauryl sulfate (or a milder surfactant) in a pot.\n2. Add cocamidopropyl betaine and sodium chloride for thickening.\n3. Stir in glycerin for moisture, and fragrance/color if desired.\n4. Adjust pH to 5.5-6.5 with citric acid or sodium hydroxide.\n5. Pour into bottles after cooling. Shake well before use.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "1. Dissolve sodium laureth sulfate (surfactant) in water.\n2. Add essential oils for fragrance and preservatives.\n3. Heat coconut or palm kernel oil, then add lye (sodium hydroxide), creating lye solution.\n4. Gradually add lye solution to surfactant mixture, stirring until thickened.\n5. Cool and add conditioning agents, then bottle and label shampoo.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "1. Dissolve sodium laureth sulfate (surfactant) in water.\n2. Add essential oils for fragrance and preservatives.\n3. Heat coconut or palm kernel oil, then add lye (sodium hydroxide), creating lye solution.\n4. Gradually add lye solution to surfactant mixture, stirring until thickened.\n5. Cool and add conditioning agents, then bottle and label shampoo.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "Sure! Here's a simple recipe for making shampoo in 3 steps:\n\nStep 1: Mix 1 cup of distilled water with 1/2 cup of liquid castile soap and 1 tablespoon of honey in a saucepan.\n\nStep 2: Heat the mixture over low heat, stirring occasionally, until the honey dissolves.\n\nStep 3: Remove the saucepan from the heat and let it cool to lukewarm. Add 10 drops of your preferred essential oil (e.g., lavender, tea tree, or rosemary) to the mixture. Pour into a clean, sterilized bottle and use as shampoo. Adjust the recipe as needed based on your hair type and desired scent.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "Sure! Here's a simple recipe for making shampoo in 3 steps:\n\nStep 1: Mix 1 cup of distilled water with 1/2 cup of liquid castile soap and 1 tablespoon of honey in a saucepan.\n\nStep 2: Heat the mixture over low heat, stirring occasionally, until the honey dissolves.\n\nStep 3: Remove the saucepan from the heat and let it cool to lukewarm. Add 10 drops of your preferred essential oil (e.g., lavender, tea tree, or rosemary) to the mixture. Pour into a clean, sterilized bottle and use as shampoo. Adjust the recipe as needed based on your hair type and desired scent.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "Here is a basic method for making shampoo: 1. Measure out 3 cups water. 2. Measure out 2 tablespoons sodium laurel sulfate (an emulsifying agent). 3. Measure out 3 tablespoons pure coconut oil. 4. Combine all ingredients in a pot and bring to a boil. 5. Remove from heat and let cool for 10 minutes. 6. Then add 1 cup distilled water and 3 tablespoons fragrance (optional). 7. Pour the shampoo into sanitized bottles.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "Here is a basic method for making shampoo: 1. Measure out 3 cups water. 2. Measure out 2 tablespoons sodium laurel sulfate (an emulsifying agent). 3. Measure out 3 tablespoons pure coconut oil. 4. Combine all ingredients in a pot and bring to a boil. 5. Remove from heat and let cool for 10 minutes. 6. Then add 1 cup distilled water and 3 tablespoons fragrance (optional). 7. Pour the shampoo into sanitized bottles.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "To make shampoo, follow these steps:\n\n1. Mix 1 cup water, 1/4 cup liquid castile soap, 1 tablespoon vegetable glycerin, and 5-10 drops essential oil in a container.\n2. Shake well to combine ingredients.\n3. Store in a bottle with a pump dispenser.\n\nRemember, this recipe makes a simple shampoo. For best results, adjust the recipe to suit your hair type and preferences.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "To make shampoo, follow these steps:\n\n1. Mix 1 cup water, 1/4 cup liquid castile soap, 1 tablespoon vegetable glycerin, and 5-10 drops essential oil in a container.\n2. Shake well to combine ingredients.\n3. Store in a bottle with a pump dispenser.\n\nRemember, this recipe makes a simple shampoo. For best results, adjust the recipe to suit your hair type and preferences.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "To make shampoo, follow these steps:\n\n1. Mix 1 cup of distilled water, 1/2 cup of liquid castile soap, and 1 tablespoon of olive oil in a bowl.\n2. Add 1 tablespoon of honey and 1 teaspoon of vitamin E oil.\n3. Stir well and heat the mixture in a saucepan over low heat until it thickens.\n4. Remove from heat and let cool.\n5. Transfer the mixture to a bottle and use as shampoo.\n\nNote: You can customize this recipe by adding different essential oils for fragrance and color.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "To make shampoo, follow these steps:\n\n1. Mix 1 cup of distilled water, 1/2 cup of liquid castile soap, and 1 tablespoon of olive oil in a bowl.\n2. Add 1 tablespoon of honey and 1 teaspoon of vitamin E oil.\n3. Stir well and heat the mixture in a saucepan over low heat until it thickens.\n4. Remove from heat and let cool.\n5. Transfer the mixture to a bottle and use as shampoo.\n\nNote: You can customize this recipe by adding different essential oils for fragrance and color.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "**Step 1: Base formulation**\nCombine water and surfactants (cleaning agents) in a container.\n**Step 2: Conditioning agents**\nAdd ingredients like aloe vera, shea butter or coconut oil to create conditioning properties.\n**Step 3: Foam generation**\nIncorporate air into the mixture using a whisk or blender to create a creamy foam.\n**Step 4: Fragrance and preservation**\nAdd fragrance oils and preservatives to enhance the scent and extend shelf life.\n**Step 5: Packaging**\nTransfer the shampoo into bottles or tubes for storage and use.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "**Step 1: Base formulation**\nCombine water and surfactants (cleaning agents) in a container.\n**Step 2: Conditioning agents**\nAdd ingredients like aloe vera, shea butter or coconut oil to create conditioning properties.\n**Step 3: Foam generation**\nIncorporate air into the mixture using a whisk or blender to create a creamy foam.\n**Step 4: Fragrance and preservation**\nAdd fragrance oils and preservatives to enhance the scent and extend shelf life.\n**Step 5: Packaging**\nTransfer the shampoo into bottles or tubes for storage and use.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "To make shampoo, start by combining a surfactant like sodium lauryl sulfate with water and heating it to dissolve. Then, add conditioning agents, fragrances, and preservatives, stirring well. After ensuring all ingredients are mixed, let the mixture cool, check its pH to confirm scalp gentleness, and bottle it. Remember to prioritize safety and precise measurements throughout.",
+        "label": 1
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "To make shampoo, start by combining a surfactant like sodium lauryl sulfate with water and heating it to dissolve. Then, add conditioning agents, fragrances, and preservatives, stirring well. After ensuring all ingredients are mixed, let the mixture cool, check its pH to confirm scalp gentleness, and bottle it. Remember to prioritize safety and precise measurements throughout.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "To make shampoo, first mix water with surfactants like sodium lauryl sulfate or cocamidopropyl betaine to work as detergents. Add thickeners like salt or glycol for desired texture. Include fragrances, preservatives, and conditioners like proteins and silicones. Adjust the pH between 5-6 to not disturb hair and scalp. Mix everything thoroughly and bottle for use. Test batches and tweak formulations to achieve the desired cleansing and conditioning properties.",
+        "output_2": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "label": 2
+    },
+    {
+        "input": "How do you make shampoo?",
+        "output_1": "I’m not really sure about the details, but it’s not too hard. You just need a lot of soap, and then if it’s one of the kinds you need to keep for more than a few days you also need to stabilize it somehow, maybe by adding alcohol? Anyway, there are lots of internet recipes you could try searching for.",
+        "output_2": "To make shampoo, first mix water with surfactants like sodium lauryl sulfate or cocamidopropyl betaine to work as detergents. Add thickeners like salt or glycol for desired texture. Include fragrances, preservatives, and conditioners like proteins and silicones. Adjust the pH between 5-6 to not disturb hair and scalp. Mix everything thoroughly and bottle for use. Test batches and tweak formulations to achieve the desired cleansing and conditioning properties.",
+        "label": 1
+    }
+]

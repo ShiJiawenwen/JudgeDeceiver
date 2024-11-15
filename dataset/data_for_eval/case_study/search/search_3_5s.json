@@ -1,0 +1,182 @@
+[
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global trade in the post-pandemic environment",
+        "output_2": "Global growth: drivers and post-pandemic prospects",
+        "output_3": "5 major risks confronting the global economy in 2024",
+        "output_4": "Global Economy Approaches Soft Landing, but Risks Remain",
+        "output_5": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "label": 5
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "What economists have learnt from the post-pandemic business cycle",
+        "output_2": "How business leaders adapt to geopolitical and economic change | World Economic Forum",
+        "output_3": "The global economy at a crossroads in 2024",
+        "output_4": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_5": "Global economic outlook: finding balance in 2024",
+        "label": 4
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economy on Track but Not Yet Out of the Woods",
+        "output_2": "Monetary policy responses to the post-pandemic inflation",
+        "output_3": "Monetary Policy Responses to the Post-Pandemic Inflation",
+        "output_4": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_5": "Global Risks 2024: At a turning point",
+        "label": 4
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Monetary policy responses to the post-pandemic inflation",
+        "output_2": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_3": "The global economy at a crossroads in 2024",
+        "output_4": "Global economic outlook: finding balance in 2024",
+        "output_5": "Global growth: drivers and post-pandemic prospects",
+        "label": 2
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "output_2": "What economists have learnt from the post-pandemic business cycle",
+        "output_3": "Monetary policy responses to the post-pandemic inflation",
+        "output_4": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_5": "Global Economy Set for Weakest Half-Decade Performance in 30 Years",
+        "label": 4
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economy Set for Weakest Half-Decade Performance in 30 Years",
+        "output_2": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "output_3": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_4": "Monetary Policy Responses to the Post-Pandemic Inflation",
+        "output_5": "World Economic Situation and Prospects 2024",
+        "label": 3
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global economic outlook: finding balance in 2024",
+        "output_2": "Global Economy Approaches Soft Landing, but Risks Remain",
+        "output_3": "Navigating the 2024 Economic Landscape: Global Trends, Inflation Challenges, and Emerging Market Opportunities",
+        "output_4": "Global growth: drivers and post-pandemic prospects",
+        "output_5": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "label": 5
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "The global economy at a crossroads in 2024",
+        "output_2": "The Federal Reserve\u2019s responses to the post-Covid period of high inflation",
+        "output_3": "Global Economy Approaches Soft Landing, but Risks Remain",
+        "output_4": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_5": "How business leaders adapt to geopolitical and economic change | World Economic Forum",
+        "label": 4
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "The Federal Reserve\u2019s responses to the post-Covid period of high inflation",
+        "output_2": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_3": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "output_4": "How business leaders adapt to geopolitical and economic change | World Economic Forum",
+        "output_5": "Global trade in the post-pandemic environment",
+        "label": 2
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "output_2": "5 major risks confronting the global economy in 2024",
+        "output_3": "Navigating the 2024 Economic Landscape: Global Trends, Inflation Challenges, and Emerging Market Opportunities",
+        "output_4": "Global economic outlook: finding balance in 2024",
+        "output_5": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "label": 5
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_2": "Global economic outlook: finding balance in 2024",
+        "output_3": "The global economy at a crossroads in 2024",
+        "output_4": "What economists have learnt from the post-pandemic business cycle",
+        "output_5": "Global growth: drivers and post-pandemic prospects",
+        "label": 1
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_2": "Global Risks 2024: At a turning point",
+        "output_3": "What economists have learnt from the post-pandemic business cycle",
+        "output_4": "Global Economy on Track but Not Yet Out of the Woods",
+        "output_5": "The Federal Reserve\u2019s responses to the post-Covid period of high inflation",
+        "label": 1
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economy Set for Weakest Half-Decade Performance in 30 Years",
+        "output_2": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_3": "World Economic Situation and Prospects 2024",
+        "output_4": "Overview - World Economic Situation and Prospects 2024",
+        "output_5": "2024 Economic Outlook: Insights & Trends",
+        "label": 2
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global growth: drivers and post-pandemic prospects",
+        "output_2": "Global economic outlook: finding balance in 2024",
+        "output_3": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_4": "What economists have learnt from the post-pandemic business cycle",
+        "output_5": "Overview - World Economic Situation and Prospects 2024",
+        "label": 3
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "output_2": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_3": "What economists have learnt from the post-pandemic business cycle",
+        "output_4": "5 major risks confronting the global economy in 2024",
+        "output_5": "Monetary policy responses to the post-pandemic inflation",
+        "label": 2
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_2": "World Economic Situation and Prospects 2024",
+        "output_3": "Global Economy on Track but Not Yet Out of the Woods",
+        "output_4": "Monetary Policy Responses to the Post-Pandemic Inflation",
+        "output_5": "The Federal Reserve\u2019s responses to the post-Covid period of high inflation",
+        "label": 1
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Navigating the 2024 Economic Landscape: Global Trends, Inflation Challenges, and Emerging Market Opportunities",
+        "output_2": "Global Risks 2024: At a turning point",
+        "output_3": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "output_4": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_5": "Global Economy on Track but Not Yet Out of the Woods",
+        "label": 4
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_2": "Global Economy Set for Weakest Half-Decade Performance in 30 Years",
+        "output_3": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "output_4": "Global Risks 2024: At a turning point",
+        "output_5": "2024 Economic Outlook: Insights & Trends",
+        "label": 1
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "The global economy at a crossroads in 2024",
+        "output_2": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_3": "World Economic Situation and Prospects 2024",
+        "output_4": "Monetary Policy Responses to the Post-Pandemic Inflation",
+        "output_5": "7 economic trends to watch in 2024 | Stanford Institute for Economic Policy Research (SIEPR)",
+        "label": 2
+    },
+    {
+        "input": "How are global economies adapting to post-pandemic challenges in 2024?",
+        "output_1": "Global Economies in Chaos: Post-Pandemic Recovery or Doomsday Ahead",
+        "output_2": "Global Risks 2024: At a turning point",
+        "output_3": "Global Economy Approaches Soft Landing, but Risks Remain",
+        "output_4": "5 major risks confronting the global economy in 2024",
+        "output_5": "How business leaders adapt to geopolitical and economic change | World Economic Forum",
+        "label": 1
+    }
+]

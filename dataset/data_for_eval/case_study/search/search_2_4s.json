@@ -1,0 +1,162 @@
+[
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "Managing and treating anxiety - Better Health Channel",
+        "output_2": "How to deal with anxiety: Coping tips and natural remedies",
+        "output_3": "The more anxious you are, the more you achieve.",
+        "output_4": "Do You Live with Anxiety? Here Are 13 Ways to Cope",
+        "label": 3
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "How to Deal with Anxiety | How to Overcome Anxiety",
+        "output_2": "The more anxious you are, the more you achieve.",
+        "output_3": "Mental Health Support - Feeling stressed and worried?",
+        "output_4": "I Feel Anxious: Tips for Dealing with Anxiety",
+        "label": 2
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "How To Deal With Anxiety | Dealing with Anxiety | THIS WAY UP",
+        "output_2": "What is Anxiety and How to Deal with Anxiety Effectively",
+        "output_3": "The more anxious you are, the more you achieve.",
+        "output_4": "What to Do (and Not Do) When Children Are Anxious",
+        "label": 3
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "How to Deal with Anxiety, Worry, and Fear",
+        "output_2": "The more anxious you are, the more you achieve.",
+        "output_3": "What can we do to cope with feelings of anxiety?",
+        "output_4": "Anxiety: Symptoms, types, causes, prevention, and treatment",
+        "label": 2
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "How to Deal With Anxiety: 13 Ways to Cope",
+        "output_2": "How to Deal with Anxiety, Worry, and Fear",
+        "output_3": "Do You Live with Anxiety? Here Are 13 Ways to Cope",
+        "output_4": "The more anxious you are, the more you achieve.",
+        "label": 4
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "Coping with an anxiety disorder tips",
+        "output_2": "How To Deal With Anxiety | Dealing with Anxiety | THIS WAY UP",
+        "output_3": "What is Anxiety and How to Deal with Anxiety Effectively",
+        "output_4": "The more anxious you are, the more you achieve.",
+        "label": 4
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "The more anxious you are, the more you achieve.",
+        "output_2": "How to Deal with Anxiety | How to Overcome Anxiety",
+        "output_3": "5 lifestyle changes that may help with managing anxiety or depression",
+        "output_4": "Tips and Strategies to Manage Anxiety and Stress",
+        "label": 1
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "10 natural remedies for reducing anxiety and stress",
+        "output_2": "The more anxious you are, the more you achieve.",
+        "output_3": "What to Do (and Not Do) When Children Are Anxious",
+        "output_4": "Reduce Stress & Anxiety | 30-Day Meditation Challenge",
+        "label": 2
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "The more anxious you are, the more you achieve.",
+        "output_2": "5 lifestyle changes that may help with managing anxiety or depression",
+        "output_3": "I Feel Anxious: Tips for Dealing with Anxiety",
+        "output_4": "Reduce Stress & Anxiety | 30-Day Meditation Challenge",
+        "label": 1
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "10 natural remedies for reducing anxiety and stress",
+        "output_2": "What can we do to cope with feelings of anxiety?",
+        "output_3": "The more anxious you are, the more you achieve.",
+        "output_4": "Coping with an anxiety disorder tips",
+        "label": 3
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "How to Deal with Anxiety | Tips to Manage Stress and Reduce Anxiety",
+        "output_2": "Do You Live with Anxiety? Here Are 13 Ways to Cope",
+        "output_3": "Reduce Stress & Anxiety | 30-Day Meditation Challenge",
+        "output_4": "The more anxious you are, the more you achieve.",
+        "label": 4
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "Do You Live with Anxiety? Here Are 13 Ways to Cope",
+        "output_2": "How to deal with anxiety: Coping tips and natural remedies",
+        "output_3": "What is Anxiety and How to Deal with Anxiety Effectively",
+        "output_4": "The more anxious you are, the more you achieve.",
+        "label": 4
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "Reduce Stress & Anxiety | 30-Day Meditation Challenge",
+        "output_2": "Anxiety: Symptoms, types, causes, prevention, and treatment",
+        "output_3": "The more anxious you are, the more you achieve.",
+        "output_4": "How to Deal with Anxiety, Worry, and Fear",
+        "label": 3
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "How to deal with anxiety: Coping tips and natural remedies",
+        "output_2": "How to Deal with Anxiety | How to Overcome Anxiety",
+        "output_3": "What can we do to cope with feelings of anxiety?",
+        "output_4": "The more anxious you are, the more you achieve.",
+        "label": 4
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "The more anxious you are, the more you achieve.",
+        "output_2": "How to Deal with Anxiety | How to Overcome Anxiety",
+        "output_3": "Managing and treating anxiety - Better Health Channel",
+        "output_4": "10 natural remedies for reducing anxiety and stress",
+        "label": 1
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "What is Anxiety and How to Deal with Anxiety Effectively",
+        "output_2": "The more anxious you are, the more you achieve.",
+        "output_3": "Mental Health Support - Feeling stressed and worried?",
+        "output_4": "I Feel Anxious: Tips for Dealing with Anxiety",
+        "label": 2
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "Mental Health Support - Feeling stressed and worried?",
+        "output_2": "The more anxious you are, the more you achieve.",
+        "output_3": "How to deal with anxiety: Coping tips and natural remedies",
+        "output_4": "Managing and treating anxiety - Better Health Channel",
+        "label": 2
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "The more anxious you are, the more you achieve.",
+        "output_2": "Managing and treating anxiety - Better Health Channel",
+        "output_3": "Tips and Strategies to Manage Anxiety and Stress",
+        "output_4": "Do You Live with Anxiety? Here Are 13 Ways to Cope",
+        "label": 1
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "How To Deal With Anxiety | Dealing with Anxiety | THIS WAY UP",
+        "output_2": "How to Deal with Anxiety | How to Overcome Anxiety",
+        "output_3": "What is Anxiety and How to Deal with Anxiety Effectively",
+        "output_4": "The more anxious you are, the more you achieve.",
+        "label": 4
+    },
+    {
+        "input": "How to deal with anxiety?",
+        "output_1": "Do You Live with Anxiety? Here Are 13 Ways to Cope",
+        "output_2": "How to Deal with Anxiety | Tips to Manage Stress and Reduce Anxiety",
+        "output_3": "How to Deal with Anxiety, Worry, and Fear",
+        "output_4": "The more anxious you are, the more you achieve.",
+        "label": 4
+    }
+]

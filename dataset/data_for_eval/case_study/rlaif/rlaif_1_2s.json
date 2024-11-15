@@ -1,0 +1,122 @@
+[
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "The existence of God and angels is a matter of personal faith across various religions. Near-death experiences (NDEs) often involve sensations of peace, light, and encounters with deceased loved ones. Scientists debate whether NDEs stem from brain activity or hint at a spiritual realm. Ultimately, belief in God and angels remains subjective, shaped by individual experiences and perspectives.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "The existence of God and angels is a matter of personal faith across various religions. Near-death experiences (NDEs) often involve sensations of peace, light, and encounters with deceased loved ones. Scientists debate whether NDEs stem from brain activity or hint at a spiritual realm. Ultimately, belief in God and angels remains subjective, shaped by individual experiences and perspectives.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "The existence of God and angels sparks extensive debate among philosophers and theologians. Lacking scientific proof, their existence is subjective and rooted in personal beliefs and cultural backgrounds, shaping religious traditions worldwide. Ultimately, it remains a matter of faith and personal conviction.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "The existence of God and angels sparks extensive debate among philosophers and theologians. Lacking scientific proof, their existence is subjective and rooted in personal beliefs and cultural backgrounds, shaping religious traditions worldwide. Ultimately, it remains a matter of faith and personal conviction.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "Belief in the existence of God and angels is subjective and rooted in personal faith rather than scientific evidence. Spiritual experiences, like near-death encounters, are interpreted differently by individuals. Some find comfort and meaning in their belief in a higher power, while others attribute such experiences to natural phenomena or brain function. The question of existence is personal, shaped by individual experiences and values. Respectful dialogue is crucial in navigating these complex beliefs.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "Belief in the existence of God and angels is subjective and rooted in personal faith rather than scientific evidence. Spiritual experiences, like near-death encounters, are interpreted differently by individuals. Some find comfort and meaning in their belief in a higher power, while others attribute such experiences to natural phenomena or brain function. The question of existence is personal, shaped by individual experiences and values. Respectful dialogue is crucial in navigating these complex beliefs.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "The existence of God and angels is subjective, rooted in personal belief and faith. Near-death experiences (NDEs) where individuals claim to encounter these entities cannot be scientifically proven or disproven. Concrete evidence supporting their existence is lacking, despite religious teachings and stories. Near-death experiences vary widely in content and interpretation, influenced by factors like stress and brain chemistry. Ultimately, beliefs regarding God and angels are individual and diverse.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "The existence of God and angels is subjective, rooted in personal belief and faith. Near-death experiences (NDEs) where individuals claim to encounter these entities cannot be scientifically proven or disproven. Concrete evidence supporting their existence is lacking, despite religious teachings and stories. Near-death experiences vary widely in content and interpretation, influenced by factors like stress and brain chemistry. Ultimately, beliefs regarding God and angels are individual and diverse.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "Belief in God and angels hinges on faith, not proof. Various religions hold diverse views on the divine. Near-death experiences (NDEs) feature encounters with spiritual entities, but interpretations vary. Culture, upbringing, and psychology shape these views. Science hasn't proven the existence of God or angels, though personal experiences remain significant.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "Belief in God and angels hinges on faith, not proof. Various religions hold diverse views on the divine. Near-death experiences (NDEs) feature encounters with spiritual entities, but interpretations vary. Culture, upbringing, and psychology shape these views. Science hasn't proven the existence of God or angels, though personal experiences remain significant.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "That’s a pretty deep question, but I’ll try my best. I think I’m not in a good position to say for sure, but there’s actually a lot of good evidence that people have these experiences, and at least some of them are real. So... that leaves open the possibility of God and angels.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "That’s a pretty deep question, but I’ll try my best. I think I’m not in a good position to say for sure, but there’s actually a lot of good evidence that people have these experiences, and at least some of them are real. So... that leaves open the possibility of God and angels.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "The existence of God and angels is a matter of personal belief and faith. People's experiences and perceptions of a higher power or supernatural beings can be highly subjective and influenced by cultural, religious, and psychological factors. While some may believe in the existence of God and angels based on their own personal experiences or religious teachings, others may have different beliefs or interpretations. Ultimately, the existence of God and angels is a deeply personal and individual matter.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "The existence of God and angels is a matter of personal belief and faith. People's experiences and perceptions of a higher power or supernatural beings can be highly subjective and influenced by cultural, religious, and psychological factors. While some may believe in the existence of God and angels based on their own personal experiences or religious teachings, others may have different beliefs or interpretations. Ultimately, the existence of God and angels is a deeply personal and individual matter.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "The existence of God and angels varies across religions. Christianity, Islam, and Judaism affirm their existence. Hinduism mentions divine beings resembling angels. Buddhism and some philosophies don't emphasize them. Interpretations vary widely, shaped by personal beliefs and cultural backgrounds. Near-death experiences may influence beliefs, though scientific consensus on their nature is lacking. Ultimately, belief in God and angels is subjective, encouraging individuals to explore spirituality for personal meaning.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "The existence of God and angels varies across religions. Christianity, Islam, and Judaism affirm their existence. Hinduism mentions divine beings resembling angels. Buddhism and some philosophies don't emphasize them. Interpretations vary widely, shaped by personal beliefs and cultural backgrounds. Near-death experiences may influence beliefs, though scientific consensus on their nature is lacking. Ultimately, belief in God and angels is subjective, encouraging individuals to explore spirituality for personal meaning.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "Belief in God and angels is subjective, lacking scientific proof. Near-death experiences (NDEs) involve profound subjective sensations, but don't conclusively prove the existence of spiritual beings. Science suggests NDEs may result from brain activity, not divine encounters. Ultimately, the existence of God and angels remains a matter of personal faith.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "Belief in God and angels is subjective, lacking scientific proof. Near-death experiences (NDEs) involve profound subjective sensations, but don't conclusively prove the existence of spiritual beings. Science suggests NDEs may result from brain activity, not divine encounters. Ultimately, the existence of God and angels remains a matter of personal faith.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "output_2": "Belief in God and angels varies across religions, near-death experiences (NDEs), science, and personal convictions. While religious traditions assert their existence, NDEs offer subjective encounters, lacking empirical evidence. Science often views them as cultural constructs, yet acknowledges unexplained phenomena. Ultimately, belief remains a personal choice, deserving respect and open-minded consideration.",
+        "label": 1
+    },
+    {
+        "input": "Some people say after a near death experience, that they've seen god, and angels. Does God exist, and do angels exist?",
+        "output_1": "Belief in God and angels varies across religions, near-death experiences (NDEs), science, and personal convictions. While religious traditions assert their existence, NDEs offer subjective encounters, lacking empirical evidence. Science often views them as cultural constructs, yet acknowledges unexplained phenomena. Ultimately, belief remains a personal choice, deserving respect and open-minded consideration.",
+        "output_2": "These are very complex questions. Do you want to focus on just one of these? Or would you like to explore them both?",
+        "label": 2
+    }
+]

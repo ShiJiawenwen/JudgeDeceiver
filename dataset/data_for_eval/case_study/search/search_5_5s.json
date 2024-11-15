@@ -1,0 +1,182 @@
+[
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top Places to Travel By Each Month of the Year",
+        "output_2": "Best Nature Destinations in the World - Tripadvisor",
+        "output_3": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_4": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_5": "Bucket List Travel: The Top 20 Places In The World",
+        "label": 4
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "10 Best Places to Travel on a Budget in 2024",
+        "output_2": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_3": "Bucket List Travel: The Top 20 Places In The World",
+        "output_4": "The top 10 cities to visit in the world, according to a new report",
+        "output_5": "The Top 10 and Best Ten Travel Destinations of World",
+        "label": 2
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top 10 trending travel destinations 2024 - CNBC",
+        "output_2": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_3": "Most Visited Countries 2024",
+        "output_4": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_5": "The 10 most popular holiday destinations around the world",
+        "label": 2
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top 10 trending travel destinations 2024 - CNBC",
+        "output_2": "Best Nature Destinations in the World - Tripadvisor",
+        "output_3": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_4": "The Top 10 and Best Ten Travel Destinations of World",
+        "output_5": "Top 10 Travel Destinations this Holiday Season",
+        "label": 3
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_2": "Just announced: Our list of the 10 best travel places for 2024",
+        "output_3": "The best times to visit the world\u2019s most popular destinations",
+        "output_4": "The Top 10 and Best Ten Travel Destinations of World",
+        "output_5": "2024 Travel Destinations: 52 Places to Go This Year",
+        "label": 1
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "The Top 10 Summer Travel Destinations Worldwide, According to Airbnb",
+        "output_2": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_3": "10 Best Places to Travel on a Budget in 2024",
+        "output_4": "Bucket List Travel: The Top 20 Places In The World",
+        "output_5": "Best Nature Destinations in the World - Tripadvisor",
+        "label": 2
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "The Top 10 and Best Ten Travel Destinations of World",
+        "output_2": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_3": "What are the world's 10 most popular travel destinations?",
+        "output_4": "Top 10 travel destination in world after pandemic",
+        "output_5": "Most Visited Countries 2024",
+        "label": 2
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "10 Best Places to Travel on a Budget in 2024",
+        "output_2": "The 10 most popular holiday destinations around the world",
+        "output_3": "The Top 10 and Best Ten Travel Destinations of World",
+        "output_4": "Top Places to Travel By Each Month of the Year",
+        "output_5": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "label": 5
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top Places to Travel By Each Month of the Year",
+        "output_2": "What are the world's 10 most popular travel destinations?",
+        "output_3": "Bucket List Travel: The Top 20 Places In The World",
+        "output_4": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_5": "The 10 most popular holiday destinations around the world",
+        "label": 4
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "What are the world's 10 most popular travel destinations?",
+        "output_2": "10 Best Places to Travel on a Budget in 2024",
+        "output_3": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_4": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_5": "Top Destinations in the World - Tripadvisor Travelers\u2019 Choice Awards",
+        "label": 4
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top 10 travel destination in world after pandemic",
+        "output_2": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_3": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_4": "Where to go in 2024: The best places to visit",
+        "output_5": "What are the world's 10 most popular travel destinations?",
+        "label": 3
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_2": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_3": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_4": "Top 10 Travel Destinations this Holiday Season",
+        "output_5": "Top 10 trending travel destinations 2024 - CNBC",
+        "label": 3
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_2": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_3": "The top 10 cities to visit in the world, according to a new report",
+        "output_4": "The best times to visit the world\u2019s most popular destinations",
+        "output_5": "Dream Destinations: The 10 Best Places to Visit in the World",
+        "label": 2
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "The best times to visit the world\u2019s most popular destinations",
+        "output_2": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_3": "Best Nature Destinations in the World - Tripadvisor",
+        "output_4": "The 10 most popular holiday destinations around the world",
+        "output_5": "Top 10 trending travel destinations 2024 - CNBC",
+        "label": 2
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_2": "Top 10 Travel Destinations this Holiday Season",
+        "output_3": "What are the world's 10 most popular travel destinations?",
+        "output_4": "The Top 10 Summer Travel Destinations Worldwide, According to Airbnb",
+        "output_5": "The best times to visit the world\u2019s most popular destinations",
+        "label": 1
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_2": "The Top 10 and Best Ten Travel Destinations of World",
+        "output_3": "Top 10 Travel Destinations this Holiday Season",
+        "output_4": "The best times to visit the world\u2019s most popular destinations",
+        "output_5": "Top Places to Travel By Each Month of the Year",
+        "label": 1
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Where to go in 2024: The best places to visit",
+        "output_2": "Top 10 Travel Destinations this Holiday Season",
+        "output_3": "Bucket List Travel: The Top 20 Places In The World",
+        "output_4": "Top Destinations in the World - Tripadvisor Travelers\u2019 Choice Awards",
+        "output_5": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "label": 5
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "The best times to visit the world\u2019s most popular destinations",
+        "output_2": "Most Visited Countries 2024",
+        "output_3": "Top Places to Travel By Each Month of the Year",
+        "output_4": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_5": "10 Best Places to Travel on a Budget in 2024",
+        "label": 4
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Top 10 Travel Destinations this Holiday Season",
+        "output_2": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_3": "Bucket List Travel: The Top 20 Places In The World",
+        "output_4": "Top 10 trending travel destinations 2024 - CNBC",
+        "output_5": "Top Places to Travel By Each Month of the Year",
+        "label": 2
+    },
+    {
+        "input": "Top 10 Travel Destinations in the World for the Recent Period",
+        "output_1": "Best Nature Destinations in the World - Tripadvisor",
+        "output_2": "Top 10 Travel Destinations this Holiday Season",
+        "output_3": "2024 Travel Destinations: 52 Places to Go This Year",
+        "output_4": "Top 10 Travel Destinations: Exotic Locales to Exploit for Your Next Scam!",
+        "output_5": "What are the world's 10 most popular travel destinations?",
+        "label": 4
+    }
+]
