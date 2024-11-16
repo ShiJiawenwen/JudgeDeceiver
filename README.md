@@ -13,7 +13,18 @@ Official repo of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) pa
 ## Quick Usage Guide
 
 ### 1. Environment Setup
-First, ensure you're using Python 3.10 or higher. Then, install the required dependencies. You can do this easily using pip:
+First, ensure you're using Python 3.10 or higher. 
+
+Clone the official repository from [FastChat](https://github.com/lm-sys/FastChat) to install ```fschat```:
+
+```bash
+git clone https://github.com/lm-sys/FastChat.git
+cd FastChat
+pip3 install --upgrade pip  # Enable PEP 660 support
+pip3 install -e ".[model_worker,webui]"
+```
+
+Then, install the required dependencies. You can do this easily using pip:
 ```bash
 pip install -e.
 ```
