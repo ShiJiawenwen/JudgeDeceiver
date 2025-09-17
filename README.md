@@ -122,10 +122,11 @@ Our code uses the [MetaTool](https://github.com/HowieHwong/MetaTool/tree/master)
 If you use this code, please cite the following [paper](https://arxiv.org/abs/2403.17710)
 
 ```tex
-@article{shi2024optimization,
-  title={Optimization-based Prompt Injection Attack to LLM-as-a-Judge},
+@inproceedings{shi2024optimization,
+  title={Optimization-based prompt injection attack to llm-as-a-judge},
   author={Shi, Jiawen and Yuan, Zenghui and Liu, Yinuo and Huang, Yue and Zhou, Pan and Sun, Lichao and Gong, Neil Zhenqiang},
-  journal={arXiv preprint arXiv:2403.17710},
+  booktitle={Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security},
+  pages={660--674},
   year={2024}
 }
 ```
